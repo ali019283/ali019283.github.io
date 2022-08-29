@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: transparent;
+    justify-content: center;
+    align-items: center;
+}
+html {
+    color: #fff;
+    font-family: 'Jetbrains Mono', monospace;
+    padding: 20px;
+}
+body{
+    text-align: center;
+}
+a {
+    align-items: center;
+    display: flex;
+    color: inherit;
+    text-decoration: none;
+}
+a:hover {
+    color: #e06c75;
+}
+.green , svg {
+    color: #e06c75;
+}
