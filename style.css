@@ -63,7 +63,6 @@ example {
     opacity: 100%;
 }
 .dropdown:hover example{
-    transform: translateX(-200%);
     transition: 500ms;
     float: left;
 }
