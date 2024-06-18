@@ -26,9 +26,6 @@ a {
 pre {
     font-family: 'Jetbrains Mono', monospace;
 }
-example {
-    display: block;
-}
 .green , svg , a:hover{
     color: #e06c75;
 }
