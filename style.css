@@ -26,12 +26,12 @@ a {
 pre {
     font-family: 'Jetbrains Mono', monospace;
 }
+@media screen and (max-width: 700px) {
+    pre {
+        display: none !important;
+    }
+}
 .green , svg , a:hover{
     color: #e06c75;
-}
-.dropdown {
-    position: relative;
-    display: inline-block;
-    margin: 2rem;
 }
 
